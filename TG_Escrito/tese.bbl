@@ -1,0 +1,98 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Agrawal e Goldfarb 2018]{PredictionMachines2018}
+\abntrefinfo{Agrawal e Goldfarb}{AGRAWAL; GOLDFARB}{2018}
+{AGRAWAL, J.~G. A.; GOLDFARB, A. \textbf{Prediction Machines}. 1st. ed. Boston:
+  Harvard Business Review Press, 2018.}
+
+\bibitem[Chapman 2019]{Zymergen}
+\abntrefinfo{Chapman}{CHAPMAN}{2019}
+{CHAPMAN, L. \textbf{SoftBank Plows 400 Million Into Synthetic Bio Startup
+  Zymergen}. 2019.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/www\-.bloomberg\-.com\-/news\-/articles\-/2018-12-13\-/softbank-plows-400-million-into-synthetic-bio-startup-zymergen$>$.
+  Acesso em: 23 may. 2019.}
+
+\bibitem[Lee 2018]{AISuperPowers2018}
+\abntrefinfo{Lee}{LEE}{2018}
+{LEE, K. fu. \textbf{AI Superpowers}. 1st. ed. New York: Houghton Mifflin
+  Harcout Publishing Company, 2018.}
+
+\bibitem[Lentino 2019]{FacialRec}
+\abntrefinfo{Lentino}{LENTINO}{2019}
+{LENTINO, A. This chinese facial recognition start-up can identify a person in
+  seconds.
+\textbf{CNBC}, 2019.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/www\-.cnbc\-.com\-/2019\-/05\-/16\-/this-chinese-facial-recognition-start-up-can-id-a-person-in-seconds\-.html$>$.
+  Acesso em: 23 may. 2019.}
+
+\bibitem[Loucks David~Schatsky 2018]{AiSurvey}
+\abntrefinfo{Loucks David~Schatsky}{LOUCKS DAVID~SCHATSKY}{2018}
+{LOUCKS DAVID~SCHATSKY, T.~D. J. State of ai in the enterprise, 2nd edition.
+\textbf{Deloitte Insights}, 2018.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/www2\-.deloitte\-.com\-/content\-/dam\-/insights\-/us\-/articles\-/4780\underline{\
+  }State-of-AI-in-the-enterprise\-/DI\underline{\
+  }State-of-AI-in-the-enterprise-2nd-ed\-.pdfl$>$. Acesso em: 23 may. 2019.}
+
+\bibitem[Mao Mohammad~Alizadeh e Kandula 2016]{Resource}
+\abntrefinfo{Mao Mohammad~Alizadeh e Kandula}{MAO MOHAMMAD~ALIZADEH;
+  KANDULA}{2016}
+{MAO MOHAMMAD~ALIZADEH, I.~M. H.; KANDULA, S. Resource management with deep
+  reinforcement learning.
+\textbf{HotNets 16 Proceedings of the 15th ACM Workshop on Hot Topics in
+  Networks}, p. 50--56, November 09-10 2016.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/dl\-.acm\-.org\-/citation\-.cfm?id=3005750$>$. Acesso em: 4
+  jun. 2019.}
+
+\bibitem[Nielsen 2015]{NNs}
+\abntrefinfo{Nielsen}{NIELSEN}{2015}
+{NIELSEN, M.~A. \textbf{Neural Networks and Deep Learning}. 1st. ed. [S.l.]:
+  Determination Press, 2015.}
+
+\bibitem[RoboCup]{RoboCup}
+\abntrefinfo{RoboCup}{ROBOCUP}{}
+{ROBOCUP.
+Dispon{\'\i}vel em: $<$https:\-/\-/www\-.robocup\-.org\-/objective$>$. Acesso
+  em: 4 junl. 2019.}
+
+\bibitem[Sutton 2018]{RFIntroduction}
+\abntrefinfo{Sutton}{SUTTON}{2018}
+{SUTTON, A.~G. R.~S. \textbf{Reinforcement Learning - An Introduction}. 2nd.
+  ed. [S.l.]: MIT Press, 2018.}
+
+\bibitem[UC Berkley Intro to AI 2014]{UCBerkley}
+\abntrefinfo{UC\ldots}{UC\ldots}{2014}
+{UC Berkley Intro to AI: Home site to the introduction to ai from uc berkley.
+  2014.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/ai\-.berkeley\-.edu\-/home\-.html$>$}{http://ai.berkeley.edu/home.html}.
+  Acesso em: 4 junl. 2019.}
+
+\bibitem[Wei Guamjie~Zheng e Li 2018]{Traffic}
+\abntrefinfo{Wei Guamjie~Zheng e Li}{WEI GUAMJIE~ZHENG; LI}{2018}
+{WEI GUAMJIE~ZHENG, H.~Y. H.; LI, Z. Intellilight: A reinforcement learning
+  approach for intelligent traffic light control.
+\textbf{KDD 18: The 24th ACM SIGKDD International Conference on Knowledge
+  Discovery and Data Mining}, p. 2496--2505, August 19 - 23 2018.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/dl\-.acm\-.org\-/citation\-.cfm?doid=3219819\-.3220096$>$.
+  Acesso em: 4 jun. 2019.}
+
+\bibitem[Zhou e N.Zare 2018]{Chemistry}
+\abntrefinfo{Zhou e N.Zare}{ZHOU; N.ZARE}{2018}
+{ZHOU, X.~L. Z.; N.ZARE, R. Optimizing chemical reactions with deep
+  reinforcement learning.
+\textbf{ACS Cent. Sci.}, v.~3, n.~12, p. 1337--1344, December 15 2018.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/doi\-.org\-/10\-.1021\-/acscentsci\-.7b00492$>$. Acesso em: 4
+  jun. 2019.}
+
+\end{thebibliography}
